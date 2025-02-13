@@ -35,7 +35,7 @@ Users can book appointments, manage schedules, and receive notifications.
 
 ### **1⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/YOUR_USERNAME/appointment-booking.git
+git clone https://github.com/YOUR_USERNAME/appointment-booking.git](https://github.com/LSYDananjaya/Assignment-Appointment-Booking-Web-App.git
 cd appointment-booking
 ```
 
